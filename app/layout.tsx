@@ -31,7 +31,7 @@ export default function RootLayout({
         <div className="flex flex-col items-center justify-center w-full">
           <div className="flex space-x-3">
             <Link
-              href="https://www.framer.com/motion/"
+              href="https://github.com/Yagazie-davidson/Suits-animation"
               target="_blank"
               rel="noreferrer"
               className="text-white text-base hover:bg-gradient-to-br hover:from-purple-400 hover:to-blue-500 hover:text-transparent hover:bg-clip-text"
@@ -40,7 +40,7 @@ export default function RootLayout({
             </Link>
             <span className="text-white">|</span>
             <Link
-              href="https://www.letam.vercel.com"
+              href="https://www.letam.vercel.app"
               target="_blank"
               rel="noreferrer"
               className="text-white text-base hover:bg-gradient-to-br hover:from-purple-400 hover:to-blue-500 hover:text-transparent hover:bg-clip-text"
